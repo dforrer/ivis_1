@@ -1,5 +1,13 @@
-var     width = 1100,
-        height = 800
+var     width = 1024,
+        height = 640
+/*
+var tooltip = d3.select("body")
+    .append("div")
+    .style("position", "absolute")
+    .style("z-index", "10")
+    .style("visibility", "hidden")
+    .text("a simple tooltip");
+*/
 var     svg = d3.select("body").append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -9,7 +17,11 @@ var     force = d3.layout.force()
             .distance(25)
             .charge(-100)
             .size([width, height]);
-
+/*
+    .on("mouseover", function(){return tooltip.style("visibility", "visible");})
+    .on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
+    .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+*/
 d3.json("data/Eva_Aeppli_JSON.json", function(error, json) {
     force
         .nodes(json.nodes)
@@ -29,12 +41,26 @@ d3.json("data/Eva_Aeppli_JSON.json", function(error, json) {
         .call(force.drag);
 
     node.append("circle")
-        .attr("r", 6);
+        .attr("r", 6); // radius
     node.append("text")
         .attr("dx", 12)
-        .attr("dy", ".35em");
- //       .text(function(d) { return d.TITEL});
+        .attr("dy", ".35em")
+        .text(function(d) { return d.TITEL + ", " + d.DATIERUNG})
+        .style({opacity:'0.0'})
+        .style("font-size","34px");
 
+    node.on('mouseover', function(d){
+        var nodeSelection = d3.select(this);
+        nodeSelection.select("circle").style("fill", function (d) { return '#0000ff'; });
+        nodeSelection.select("text").style({opacity:'1.0'});
+        nodeSelection.attr("r", 24); // radius
+    });
+    node.on('mouseout', function(d){
+        var nodeSelection = d3.select(this);
+        nodeSelection.select("circle").style("fill", function (d) { return '#ff0000'; });
+        nodeSelection.select("text").style({opacity:'0.0'});
+        nodeSelection.attr("r", 6); // radius
+    });
     force.on("tick", function()
     {
         link.attr("x1", function(d) { return d.source.x; })
