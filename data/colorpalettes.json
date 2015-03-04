@@ -1,6 +1,6 @@
 [
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "999966",
@@ -12,10 +12,10 @@
             "CCCC99",
             "666633"
         ],
-        "filename": "1101110002D1.jpg"
+        "FILENAME": "1101110002D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -23,10 +23,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "1101110002D2.jpg"
+        "FILENAME": "1101110002D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -38,10 +38,10 @@
             "666633",
             "996666"
         ],
-        "filename": "1101110003D1.jpg"
+        "FILENAME": "1101110003D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666633",
@@ -53,10 +53,10 @@
             "999999",
             "000033"
         ],
-        "filename": "1104110001D1.jpg"
+        "FILENAME": "1104110001D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -64,10 +64,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "1202130010D1.jpg"
+        "FILENAME": "1202130010D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "CCCC99",
             "FFFFFF",
@@ -79,10 +79,10 @@
             "996666",
             "666633"
         ],
-        "filename": "1206120001DS1.jpg"
+        "FILENAME": "1206120001DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -94,10 +94,10 @@
             "FFFFCC",
             "996666"
         ],
-        "filename": "82009D1.jpg"
+        "FILENAME": "82009D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "669999",
@@ -109,10 +109,10 @@
             "336699",
             "6699CC"
         ],
-        "filename": "88590D1.jpg"
+        "FILENAME": "88590D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "999999",
@@ -124,10 +124,10 @@
             "CC9999",
             "FFFFCC"
         ],
-        "filename": "88590DS1.jpg"
+        "FILENAME": "88590DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "669999",
             "333333",
@@ -139,10 +139,10 @@
             "336666",
             "CCFFCC"
         ],
-        "filename": "88591D1.jpg"
+        "FILENAME": "88591D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "999966",
@@ -154,10 +154,10 @@
             "CC9999",
             "CC9966"
         ],
-        "filename": "88591DS1.jpg"
+        "FILENAME": "88591DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "336666",
             "000000",
             "666699",
@@ -169,10 +169,10 @@
             "999999",
             "333300"
         ],
-        "filename": "88592D1.jpg"
+        "FILENAME": "88592D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "999966",
@@ -184,10 +184,10 @@
             "FFCCCC",
             "999999"
         ],
-        "filename": "88592DS1.jpg"
+        "FILENAME": "88592DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "336666",
             "669999",
             "000000",
@@ -199,10 +199,10 @@
             "6699CC",
             "330033"
         ],
-        "filename": "88593D1.jpg"
+        "FILENAME": "88593D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "CCCC99",
@@ -214,10 +214,10 @@
             "CC9966",
             "CC9999"
         ],
-        "filename": "88593DS1.jpg"
+        "FILENAME": "88593DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "669999",
@@ -229,10 +229,10 @@
             "330000",
             "003333"
         ],
-        "filename": "88594D1.jpg"
+        "FILENAME": "88594D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -244,10 +244,10 @@
             "996666",
             "333333"
         ],
-        "filename": "88594DS1.jpg"
+        "FILENAME": "88594DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "669999",
             "9999CC",
             "333333",
@@ -259,10 +259,10 @@
             "666666",
             "330000"
         ],
-        "filename": "88595D1.jpg"
+        "FILENAME": "88595D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -274,10 +274,10 @@
             "CC9999",
             "333333"
         ],
-        "filename": "88595DS1.jpg"
+        "FILENAME": "88595DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "6699CC",
             "000000",
             "669999",
@@ -289,10 +289,10 @@
             "330000",
             "99CCFF"
         ],
-        "filename": "88596D1.jpg"
+        "FILENAME": "88596D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "999966",
@@ -304,10 +304,10 @@
             "FFCCCC",
             "663333"
         ],
-        "filename": "88596DS1.jpg"
+        "FILENAME": "88596DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "CC9999",
@@ -319,10 +319,10 @@
             "CCCC99",
             "999966"
         ],
-        "filename": "88597E1.jpg"
+        "FILENAME": "88597E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "FFFFFF",
@@ -334,10 +334,10 @@
             "CCFFFF",
             "999999"
         ],
-        "filename": "88598E1.jpg"
+        "FILENAME": "88598E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "666666",
@@ -349,10 +349,10 @@
             "CCCCFF",
             "999966"
         ],
-        "filename": "88599D1.jpg"
+        "FILENAME": "88599D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -360,10 +360,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "88599D2.jpg"
+        "FILENAME": "88599D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "FFFFFF",
@@ -375,10 +375,10 @@
             "333300",
             "9999CC"
         ],
-        "filename": "88599E1.jpg"
+        "FILENAME": "88599E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "003333",
             "999999",
             "666666",
@@ -390,10 +390,10 @@
             "99CC99",
             "CCFFCC"
         ],
-        "filename": "88600CE2.jpg"
+        "FILENAME": "88600CE2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666666",
@@ -405,10 +405,10 @@
             "000000",
             "663333"
         ],
-        "filename": "88600D1.jpg"
+        "FILENAME": "88600D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "CC9999",
@@ -420,10 +420,10 @@
             "CCCCCC",
             "663333"
         ],
-        "filename": "88600D2.jpg"
+        "FILENAME": "88600D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "663333",
             "000000",
@@ -435,10 +435,10 @@
             "996666",
             "330000"
         ],
-        "filename": "88600DS1.jpg"
+        "FILENAME": "88600DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "999966",
             "666633",
@@ -450,10 +450,10 @@
             "333300",
             "CC9966"
         ],
-        "filename": "88601D1.jpg"
+        "FILENAME": "88601D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "999999",
@@ -465,10 +465,10 @@
             "CCCCFF",
             "999966"
         ],
-        "filename": "88602E1.jpg"
+        "FILENAME": "88602E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "CCCCFF",
@@ -480,10 +480,10 @@
             "99CCCC",
             "CCFFCC"
         ],
-        "filename": "88603E1.jpg"
+        "FILENAME": "88603E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "993333",
             "990000",
             "993300",
@@ -495,10 +495,10 @@
             "330000",
             "660000"
         ],
-        "filename": "88604E1.jpg"
+        "FILENAME": "88604E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "000033",
@@ -510,10 +510,10 @@
             "003333",
             "663366"
         ],
-        "filename": "88605E1.jpg"
+        "FILENAME": "88605E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "330000",
             "333300",
@@ -525,10 +525,10 @@
             "000033",
             "999966"
         ],
-        "filename": "88606E1.jpg"
+        "FILENAME": "88606E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "663333",
             "666633",
             "333333",
@@ -540,10 +540,10 @@
             "333300",
             "663300"
         ],
-        "filename": "88607E1.jpg"
+        "FILENAME": "88607E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "663333",
             "666666",
@@ -555,10 +555,10 @@
             "333300",
             "999999"
         ],
-        "filename": "88608E1.jpg"
+        "FILENAME": "88608E1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "663333",
             "666666",
@@ -570,10 +570,10 @@
             "CCCCCC",
             "330000"
         ],
-        "filename": "92014D1.jpg"
+        "FILENAME": "92014D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -585,10 +585,10 @@
             "CCCC99",
             "000000"
         ],
-        "filename": "92061D1.jpg"
+        "FILENAME": "92061D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CC9966",
             "CCCC99",
@@ -600,10 +600,10 @@
             "663333",
             "CC9999"
         ],
-        "filename": "93786D1.jpg"
+        "FILENAME": "93786D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333366",
             "333333",
@@ -615,10 +615,10 @@
             "000033",
             "330033"
         ],
-        "filename": "93787D1.jpg"
+        "FILENAME": "93787D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "000000",
@@ -626,10 +626,10 @@
             "333333",
             "FFFFFF"
         ],
-        "filename": "93788SF1.jpg"
+        "FILENAME": "93788SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "666633",
@@ -641,10 +641,10 @@
             "996666",
             "663366"
         ],
-        "filename": "93789DS1.jpg"
+        "FILENAME": "93789DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "333333",
@@ -652,10 +652,10 @@
             "666666",
             "999999"
         ],
-        "filename": "93790SC1.jpg"
+        "FILENAME": "93790SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -667,10 +667,10 @@
             "CC9999",
             "CCCCCC"
         ],
-        "filename": "93791DS1.jpg"
+        "FILENAME": "93791DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "999999",
@@ -678,10 +678,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "93792SC1.jpg"
+        "FILENAME": "93792SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "666633",
@@ -693,10 +693,10 @@
             "999999",
             "330000"
         ],
-        "filename": "93793D1.jpg"
+        "FILENAME": "93793D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -704,10 +704,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "93794SC1.jpg"
+        "FILENAME": "93794SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -719,10 +719,10 @@
             "663333",
             "996666"
         ],
-        "filename": "93795DS1.jpg"
+        "FILENAME": "93795DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -730,10 +730,10 @@
             "FFFFFF",
             "CCCCCC"
         ],
-        "filename": "93796SC1.jpg"
+        "FILENAME": "93796SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -741,10 +741,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "93797SC1.jpg"
+        "FILENAME": "93797SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -752,10 +752,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "93798SC1.jpg"
+        "FILENAME": "93798SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -763,10 +763,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "93799SC1.jpg"
+        "FILENAME": "93799SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -774,10 +774,10 @@
             "FFFFFF",
             "CCCCCC"
         ],
-        "filename": "93800SC1.jpg"
+        "FILENAME": "93800SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -785,10 +785,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "93801SC1.jpg"
+        "FILENAME": "93801SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -796,10 +796,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "93802SC1.jpg"
+        "FILENAME": "93802SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -807,10 +807,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "93803SC1.jpg"
+        "FILENAME": "93803SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -818,10 +818,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "93804SC1.jpg"
+        "FILENAME": "93804SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "333333",
@@ -829,10 +829,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "93805SC1.jpg"
+        "FILENAME": "93805SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -840,10 +840,10 @@
             "FFFFFF",
             "CCCCCC"
         ],
-        "filename": "93806SC1.jpg"
+        "FILENAME": "93806SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666633",
             "999966",
             "666666",
@@ -855,10 +855,10 @@
             "000000",
             "999999"
         ],
-        "filename": "93807CE1.jpg"
+        "FILENAME": "93807CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -870,10 +870,10 @@
             "999966",
             "996666"
         ],
-        "filename": "93808DS1.jpg"
+        "FILENAME": "93808DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666633",
             "666666",
             "663333",
@@ -885,10 +885,10 @@
             "999999",
             "FFCCCC"
         ],
-        "filename": "93809D1.jpg"
+        "FILENAME": "93809D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666633",
             "333333",
             "666666",
@@ -900,10 +900,10 @@
             "CC9999",
             "FFCCCC"
         ],
-        "filename": "93809D2.jpg"
+        "FILENAME": "93809D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666633",
             "666666",
             "996666",
@@ -915,10 +915,10 @@
             "FFCC99",
             "999999"
         ],
-        "filename": "93809D3.jpg"
+        "FILENAME": "93809D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666633",
             "663333",
@@ -930,10 +930,10 @@
             "999999",
             "333300"
         ],
-        "filename": "93809D4.jpg"
+        "FILENAME": "93809D4"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666633",
             "663333",
@@ -945,10 +945,10 @@
             "999999",
             "333300"
         ],
-        "filename": "93809D5.jpg"
+        "FILENAME": "93809D5"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666633",
             "666666",
@@ -960,10 +960,10 @@
             "000000",
             "999999"
         ],
-        "filename": "93809D6.jpg"
+        "FILENAME": "93809D6"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "663333",
             "666633",
@@ -975,10 +975,10 @@
             "CC9999",
             "333300"
         ],
-        "filename": "93809D7.jpg"
+        "FILENAME": "93809D7"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666633",
             "663333",
@@ -990,10 +990,10 @@
             "CC9999",
             "CCCC99"
         ],
-        "filename": "93809D8.jpg"
+        "FILENAME": "93809D8"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "FFFFFF",
@@ -1001,10 +1001,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "93810SC1.jpg"
+        "FILENAME": "93810SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1012,10 +1012,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "93811SC1.jpg"
+        "FILENAME": "93811SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1023,10 +1023,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "93812SC1.jpg"
+        "FILENAME": "93812SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1034,10 +1034,10 @@
             "FFFFFF",
             "CCCCCC"
         ],
-        "filename": "93813SC1.jpg"
+        "FILENAME": "93813SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1045,10 +1045,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "93814SC1.jpg"
+        "FILENAME": "93814SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1056,10 +1056,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "93815SC1.jpg"
+        "FILENAME": "93815SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1071,10 +1071,10 @@
             "999966",
             "996666"
         ],
-        "filename": "94295DS1.jpg"
+        "FILENAME": "94295DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "663333",
@@ -1086,10 +1086,10 @@
             "663366",
             "999999"
         ],
-        "filename": "94296D1.jpg"
+        "FILENAME": "94296D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "666666",
@@ -1101,10 +1101,10 @@
             "CC9999",
             "CC99CC"
         ],
-        "filename": "94297DS1.jpg"
+        "FILENAME": "94297DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "CCCCCC",
@@ -1116,10 +1116,10 @@
             "669999",
             "666699"
         ],
-        "filename": "94298D1.jpg"
+        "FILENAME": "94298D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1127,10 +1127,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94299SF1.jpg"
+        "FILENAME": "94299SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1142,10 +1142,10 @@
             "CCCCCC",
             "666699"
         ],
-        "filename": "94300D1.jpg"
+        "FILENAME": "94300D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1157,10 +1157,10 @@
             "CC9999",
             "CCCC99"
         ],
-        "filename": "94301DS1.jpg"
+        "FILENAME": "94301DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "FFFFFF",
@@ -1168,10 +1168,10 @@
             "999999",
             "666666"
         ],
-        "filename": "94302SF1.jpg"
+        "FILENAME": "94302SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "CCCCCC",
             "333333",
@@ -1183,10 +1183,10 @@
             "FFFFFF",
             "FFFFCC"
         ],
-        "filename": "94303D1.jpg"
+        "FILENAME": "94303D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "FFFFFF",
@@ -1194,10 +1194,10 @@
             "999999",
             "666666"
         ],
-        "filename": "94304SF1.jpg"
+        "FILENAME": "94304SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -1209,10 +1209,10 @@
             "336666",
             "000000"
         ],
-        "filename": "94305D1.jpg"
+        "FILENAME": "94305D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "666666",
@@ -1220,10 +1220,10 @@
             "FFFFFF",
             "999999"
         ],
-        "filename": "94306SC1.jpg"
+        "FILENAME": "94306SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1231,10 +1231,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94307SC1.jpg"
+        "FILENAME": "94307SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1242,10 +1242,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "94308SC1.jpg"
+        "FILENAME": "94308SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1253,10 +1253,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94309D1.jpg"
+        "FILENAME": "94309D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1264,10 +1264,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94310SC1.jpg"
+        "FILENAME": "94310SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1275,10 +1275,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "94311SC1.jpg"
+        "FILENAME": "94311SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1286,10 +1286,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94312SC1.jpg"
+        "FILENAME": "94312SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "CCCCCC",
@@ -1297,10 +1297,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "94313SC1.jpg"
+        "FILENAME": "94313SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "999999",
@@ -1308,10 +1308,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "94314SC1.jpg"
+        "FILENAME": "94314SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "FFFFFF",
@@ -1319,10 +1319,10 @@
             "666666",
             "999999"
         ],
-        "filename": "94315SC1.jpg"
+        "FILENAME": "94315SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -1334,10 +1334,10 @@
             "003333",
             "CCCC99"
         ],
-        "filename": "94316D1.jpg"
+        "FILENAME": "94316D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -1349,10 +1349,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "94317D1.jpg"
+        "FILENAME": "94317D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1360,10 +1360,10 @@
             "FFFFFF",
             "999999"
         ],
-        "filename": "94318SC1.jpg"
+        "FILENAME": "94318SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1375,10 +1375,10 @@
             "666633",
             "000033"
         ],
-        "filename": "94319D1.jpg"
+        "FILENAME": "94319D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "FFFFFF",
@@ -1386,10 +1386,10 @@
             "CCCCCC",
             "000000"
         ],
-        "filename": "94320SC1.jpg"
+        "FILENAME": "94320SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1397,10 +1397,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "94321SC1.jpg"
+        "FILENAME": "94321SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "CCCCCC",
@@ -1408,10 +1408,10 @@
             "666666",
             "999999"
         ],
-        "filename": "94322SC1.jpg"
+        "FILENAME": "94322SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1419,10 +1419,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "94323SC1.jpg"
+        "FILENAME": "94323SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1430,10 +1430,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94324SC1.jpg"
+        "FILENAME": "94324SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1441,10 +1441,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94325SC1.jpg"
+        "FILENAME": "94325SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "FFFFFF",
@@ -1452,10 +1452,10 @@
             "000000",
             "999999"
         ],
-        "filename": "94326SC1.jpg"
+        "FILENAME": "94326SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "FFFFFF",
             "666666",
@@ -1463,10 +1463,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94327SC1.jpg"
+        "FILENAME": "94327SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1474,10 +1474,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94328SC1.jpg"
+        "FILENAME": "94328SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -1489,10 +1489,10 @@
             "CC9999",
             "663366"
         ],
-        "filename": "94329DS1.jpg"
+        "FILENAME": "94329DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "333333",
             "CCCCCC",
@@ -1500,10 +1500,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "94330SC1.jpg"
+        "FILENAME": "94330SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1511,10 +1511,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94331SC1.jpg"
+        "FILENAME": "94331SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "333333",
             "666666",
@@ -1526,10 +1526,10 @@
             "996666",
             "663333"
         ],
-        "filename": "94332D1.jpg"
+        "FILENAME": "94332D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666633",
             "999966",
             "333333",
@@ -1541,10 +1541,10 @@
             "CCCC99",
             "CC9999"
         ],
-        "filename": "94333CE1.jpg"
+        "FILENAME": "94333CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "999999",
@@ -1552,10 +1552,10 @@
             "666666",
             "CCCCCC"
         ],
-        "filename": "94334D1.jpg"
+        "FILENAME": "94334D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "666633",
             "333333",
@@ -1567,10 +1567,10 @@
             "CCCC99",
             "CC9999"
         ],
-        "filename": "94335D1.jpg"
+        "FILENAME": "94335D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1578,10 +1578,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94336SF1.jpg"
+        "FILENAME": "94336SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -1593,10 +1593,10 @@
             "CC9999",
             "CCCC99"
         ],
-        "filename": "94337DS1.jpg"
+        "FILENAME": "94337DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1608,10 +1608,10 @@
             "330000",
             "996666"
         ],
-        "filename": "94338DS1.jpg"
+        "FILENAME": "94338DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1619,10 +1619,10 @@
             "FFFFFF",
             "999999"
         ],
-        "filename": "94339SC1.jpg"
+        "FILENAME": "94339SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1630,10 +1630,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94340D1.jpg"
+        "FILENAME": "94340D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1641,10 +1641,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94341D1.jpg"
+        "FILENAME": "94341D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1656,10 +1656,10 @@
             "CCCC99",
             "CC9999"
         ],
-        "filename": "94342DS1.jpg"
+        "FILENAME": "94342DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1667,10 +1667,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94343D1.jpg"
+        "FILENAME": "94343D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1678,10 +1678,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94344D1.jpg"
+        "FILENAME": "94344D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1689,10 +1689,10 @@
             "000000",
             "CCCCCC"
         ],
-        "filename": "94764SC1.jpg"
+        "FILENAME": "94764SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "666666",
@@ -1700,10 +1700,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94765SC1.jpg"
+        "FILENAME": "94765SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "CCCCCC",
@@ -1711,10 +1711,10 @@
             "FFFFFF",
             "666666"
         ],
-        "filename": "94766SC1.jpg"
+        "FILENAME": "94766SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "666666",
@@ -1722,10 +1722,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94767SC1.jpg"
+        "FILENAME": "94767SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1733,10 +1733,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94768SC1.jpg"
+        "FILENAME": "94768SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -1744,10 +1744,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94769SC1.jpg"
+        "FILENAME": "94769SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1759,10 +1759,10 @@
             "CC9999",
             "CCCC99"
         ],
-        "filename": "94770DS1.jpg"
+        "FILENAME": "94770DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -1774,10 +1774,10 @@
             "CCCC99",
             "CC9999"
         ],
-        "filename": "94772DS1.jpg"
+        "FILENAME": "94772DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1789,10 +1789,10 @@
             "999966",
             "996666"
         ],
-        "filename": "94773DS1.jpg"
+        "FILENAME": "94773DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -1804,10 +1804,10 @@
             "FFFFFF",
             "CC9999"
         ],
-        "filename": "94774DS1.jpg"
+        "FILENAME": "94774DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1815,20 +1815,20 @@
             "FFFFFF",
             "CCCCCC"
         ],
-        "filename": "94775SC1.jpg"
+        "FILENAME": "94775SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
             "999999",
             "CCCCCC"
         ],
-        "filename": "94776SC1.jpg"
+        "FILENAME": "94776SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -1836,10 +1836,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "94777SC1.jpg"
+        "FILENAME": "94777SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "CCCCCC",
@@ -1847,20 +1847,20 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "94778SC1.jpg"
+        "FILENAME": "94778SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
             "999999",
             "CCCCCC"
         ],
-        "filename": "94779SC1.jpg"
+        "FILENAME": "94779SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1868,10 +1868,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94780D1.jpg"
+        "FILENAME": "94780D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1879,10 +1879,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94781D1.jpg"
+        "FILENAME": "94781D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1890,10 +1890,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94782D1.jpg"
+        "FILENAME": "94782D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1901,10 +1901,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94783D1.jpg"
+        "FILENAME": "94783D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "333333",
@@ -1912,10 +1912,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "94784D1.jpg"
+        "FILENAME": "94784D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -1923,10 +1923,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94785D1.jpg"
+        "FILENAME": "94785D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "666666",
@@ -1938,10 +1938,10 @@
             "CCCC99",
             "CC9999"
         ],
-        "filename": "94786DS1.jpg"
+        "FILENAME": "94786DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "333333",
@@ -1953,10 +1953,10 @@
             "663366",
             "330033"
         ],
-        "filename": "94787CE1.jpg"
+        "FILENAME": "94787CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "999999",
@@ -1964,10 +1964,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "94788SF1.jpg"
+        "FILENAME": "94788SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1975,10 +1975,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94789SF1.jpg"
+        "FILENAME": "94789SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -1986,10 +1986,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "94790SF1.jpg"
+        "FILENAME": "94790SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "666666",
@@ -1997,10 +1997,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "94791SF1.jpg"
+        "FILENAME": "94791SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "CC9999",
@@ -2012,10 +2012,10 @@
             "990000",
             "660000"
         ],
-        "filename": "94792CE1.jpg"
+        "FILENAME": "94792CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "333333",
@@ -2023,10 +2023,10 @@
             "999999",
             "666666"
         ],
-        "filename": "94793SF1.jpg"
+        "FILENAME": "94793SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "CCCCCC",
@@ -2034,10 +2034,10 @@
             "999999",
             "666666"
         ],
-        "filename": "94794SF1.jpg"
+        "FILENAME": "94794SF1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "663333",
             "666666",
@@ -2049,10 +2049,10 @@
             "336666",
             "003333"
         ],
-        "filename": "94795CE1.jpg"
+        "FILENAME": "94795CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -2060,10 +2060,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94796SC1.jpg"
+        "FILENAME": "94796SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -2071,10 +2071,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94797D1.jpg"
+        "FILENAME": "94797D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -2082,10 +2082,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "94798SC1.jpg"
+        "FILENAME": "94798SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "CCCCCC",
@@ -2097,10 +2097,10 @@
             "000000",
             "333366"
         ],
-        "filename": "94799D1.jpg"
+        "FILENAME": "94799D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "333333",
@@ -2112,10 +2112,10 @@
             "336666",
             "9999CC"
         ],
-        "filename": "94800D1.jpg"
+        "FILENAME": "94800D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -2123,10 +2123,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94801SC1.jpg"
+        "FILENAME": "94801SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -2134,10 +2134,10 @@
             "999999",
             "CCCCCC"
         ],
-        "filename": "94802SC1.jpg"
+        "FILENAME": "94802SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "666633",
@@ -2149,10 +2149,10 @@
             "CCCCCC",
             "FFFFCC"
         ],
-        "filename": "94803D1.jpg"
+        "FILENAME": "94803D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "660033",
             "99CC99",
@@ -2164,10 +2164,10 @@
             "663333",
             "999966"
         ],
-        "filename": "94804CE1.jpg"
+        "FILENAME": "94804CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "003333",
             "999999",
             "CCCCCC",
@@ -2179,10 +2179,10 @@
             "99CC99",
             "666633"
         ],
-        "filename": "94805CE1.jpg"
+        "FILENAME": "94805CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "666633",
@@ -2194,10 +2194,10 @@
             "99CC99",
             "CCFFFF"
         ],
-        "filename": "94806CE1.jpg"
+        "FILENAME": "94806CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "333333",
@@ -2209,10 +2209,10 @@
             "666666",
             "663333"
         ],
-        "filename": "94807CE1.jpg"
+        "FILENAME": "94807CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "CCFFCC",
@@ -2224,10 +2224,10 @@
             "999966",
             "333300"
         ],
-        "filename": "94808CE1.jpg"
+        "FILENAME": "94808CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "999999",
@@ -2239,10 +2239,10 @@
             "666666",
             "FFFFCC"
         ],
-        "filename": "94809D1.jpg"
+        "FILENAME": "94809D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -2250,10 +2250,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "94810SC1.jpg"
+        "FILENAME": "94810SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -2261,10 +2261,10 @@
             "FFFFFF",
             "999999"
         ],
-        "filename": "94811SC1.jpg"
+        "FILENAME": "94811SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "FFFFFF",
@@ -2276,10 +2276,10 @@
             "666699",
             "CCFFFF"
         ],
-        "filename": "94812D1.jpg"
+        "FILENAME": "94812D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "9999CC",
@@ -2291,10 +2291,10 @@
             "CC99CC",
             "669999"
         ],
-        "filename": "94813CE1.jpg"
+        "FILENAME": "94813CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "663333",
@@ -2306,10 +2306,10 @@
             "FFFFFF",
             "336633"
         ],
-        "filename": "95710CE1.jpg"
+        "FILENAME": "95710CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "003300",
             "333333",
             "333300",
@@ -2321,10 +2321,10 @@
             "666633",
             "999966"
         ],
-        "filename": "95711CE1.jpg"
+        "FILENAME": "95711CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "330000",
             "333333",
             "666633",
@@ -2336,10 +2336,10 @@
             "663300",
             "333300"
         ],
-        "filename": "95712CE1.jpg"
+        "FILENAME": "95712CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -2351,10 +2351,10 @@
             "666633",
             "996666"
         ],
-        "filename": "95715CE1.jpg"
+        "FILENAME": "95715CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "996633",
             "663333",
@@ -2366,10 +2366,10 @@
             "333300",
             "CCCCCC"
         ],
-        "filename": "95716D1.jpg"
+        "FILENAME": "95716D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "999966",
@@ -2381,10 +2381,10 @@
             "CCCC99",
             "333333"
         ],
-        "filename": "95717D1.jpg"
+        "FILENAME": "95717D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "330000",
             "333333",
@@ -2396,10 +2396,10 @@
             "CC6633",
             "330033"
         ],
-        "filename": "95718D1.jpg"
+        "FILENAME": "95718D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "CCCCCC",
@@ -2407,10 +2407,10 @@
             "999999",
             "666666"
         ],
-        "filename": "95719D1.jpg"
+        "FILENAME": "95719D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333333",
             "CCCCCC",
@@ -2422,10 +2422,10 @@
             "003333",
             "996666"
         ],
-        "filename": "95720D1.jpg"
+        "FILENAME": "95720D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "333333",
@@ -2437,10 +2437,10 @@
             "666633",
             "666666"
         ],
-        "filename": "95721D1.jpg"
+        "FILENAME": "95721D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999966",
             "999999",
             "333333",
@@ -2452,10 +2452,10 @@
             "663333",
             "CC9966"
         ],
-        "filename": "95722D1.jpg"
+        "FILENAME": "95722D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666633",
@@ -2467,10 +2467,10 @@
             "996633",
             "99CC99"
         ],
-        "filename": "95723D1.jpg"
+        "FILENAME": "95723D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333300",
             "999999",
@@ -2482,10 +2482,10 @@
             "330000",
             "666666"
         ],
-        "filename": "95724CE1.jpg"
+        "FILENAME": "95724CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -2497,10 +2497,10 @@
             "336633",
             "666633"
         ],
-        "filename": "95725D1.jpg"
+        "FILENAME": "95725D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "999999",
@@ -2512,10 +2512,10 @@
             "666666",
             "CCCC99"
         ],
-        "filename": "95726D1.jpg"
+        "FILENAME": "95726D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "996666",
@@ -2527,10 +2527,10 @@
             "663333",
             "CC9999"
         ],
-        "filename": "95728D1.jpg"
+        "FILENAME": "95728D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "333333",
             "666666",
@@ -2542,10 +2542,10 @@
             "663333",
             "666633"
         ],
-        "filename": "95729D1.jpg"
+        "FILENAME": "95729D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -2557,10 +2557,10 @@
             "996633",
             "CC9999"
         ],
-        "filename": "95730SC1.jpg"
+        "FILENAME": "95730SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666666",
             "333333",
@@ -2572,20 +2572,20 @@
             "663333",
             "666633"
         ],
-        "filename": "95731D1.jpg"
+        "FILENAME": "95731D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "666666",
             "999999",
             "333333"
         ],
-        "filename": "95732SC1.jpg"
+        "FILENAME": "95732SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "333333",
@@ -2593,10 +2593,10 @@
             "000000",
             "666666"
         ],
-        "filename": "95733SC1.jpg"
+        "FILENAME": "95733SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "666699",
             "666666",
@@ -2608,10 +2608,10 @@
             "663333",
             "996699"
         ],
-        "filename": "95734D1.jpg"
+        "FILENAME": "95734D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "000000",
@@ -2623,10 +2623,10 @@
             "669999",
             "003333"
         ],
-        "filename": "95735D1.jpg"
+        "FILENAME": "95735D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -2634,20 +2634,20 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "95736D1.jpg"
+        "FILENAME": "95736D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
             "999999",
             "CCCCCC"
         ],
-        "filename": "95737SC1.jpg"
+        "FILENAME": "95737SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -2655,10 +2655,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "95738SC1.jpg"
+        "FILENAME": "95738SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -2670,10 +2670,10 @@
             "999966",
             "996666"
         ],
-        "filename": "95739DS1.jpg"
+        "FILENAME": "95739DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "CC3333",
@@ -2685,10 +2685,10 @@
             "FF3333",
             "FFFFCC"
         ],
-        "filename": "95740D1.jpg"
+        "FILENAME": "95740D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -2696,10 +2696,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "95741SC1.jpg"
+        "FILENAME": "95741SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "CCCC99",
             "999999",
@@ -2711,20 +2711,20 @@
             "993333",
             "666666"
         ],
-        "filename": "95742D1.jpg"
+        "FILENAME": "95742D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
             "999999",
             "CCCCCC"
         ],
-        "filename": "95743SC1.jpg"
+        "FILENAME": "95743SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -2736,20 +2736,20 @@
             "336666",
             "FFFFCC"
         ],
-        "filename": "95744D1.jpg"
+        "FILENAME": "95744D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
             "999999",
             "CCCCCC"
         ],
-        "filename": "95745SC1.jpg"
+        "FILENAME": "95745SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "996666",
             "CC9999",
@@ -2761,10 +2761,10 @@
             "FFFFCC",
             "CCCC99"
         ],
-        "filename": "95746D1.jpg"
+        "FILENAME": "95746D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "FFFFFF",
@@ -2776,10 +2776,10 @@
             "CC99CC",
             "FFFFCC"
         ],
-        "filename": "95747D1.jpg"
+        "FILENAME": "95747D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "000000",
@@ -2791,10 +2791,10 @@
             "FFCCCC",
             "003333"
         ],
-        "filename": "95748D1.jpg"
+        "FILENAME": "95748D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -2802,10 +2802,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "95749D1.jpg"
+        "FILENAME": "95749D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "CC0033",
@@ -2817,10 +2817,10 @@
             "9999CC",
             "666666"
         ],
-        "filename": "95750D1.jpg"
+        "FILENAME": "95750D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "999999",
@@ -2828,10 +2828,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "95751SC1.jpg"
+        "FILENAME": "95751SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "000000",
@@ -2839,10 +2839,10 @@
             "FFFFFF",
             "666666"
         ],
-        "filename": "95752SC1.jpg"
+        "FILENAME": "95752SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "000000",
@@ -2854,10 +2854,10 @@
             "999966",
             "663333"
         ],
-        "filename": "95753D1.jpg"
+        "FILENAME": "95753D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "666666",
@@ -2865,10 +2865,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "95754SC1.jpg"
+        "FILENAME": "95754SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "666666",
@@ -2876,10 +2876,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "95755SC1.jpg"
+        "FILENAME": "95755SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "666666",
@@ -2891,10 +2891,10 @@
             "996666",
             "663333"
         ],
-        "filename": "95756DS1.jpg"
+        "FILENAME": "95756DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCC99",
             "333300",
@@ -2906,10 +2906,10 @@
             "999966",
             "330000"
         ],
-        "filename": "95757D1.jpg"
+        "FILENAME": "95757D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "999999",
@@ -2921,10 +2921,10 @@
             "666666",
             "003333"
         ],
-        "filename": "95758D1.jpg"
+        "FILENAME": "95758D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "666633",
@@ -2936,10 +2936,10 @@
             "333366",
             "996633"
         ],
-        "filename": "95759D1.jpg"
+        "FILENAME": "95759D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "663333",
@@ -2951,10 +2951,10 @@
             "999966",
             "CC9999"
         ],
-        "filename": "96019DS1.jpg"
+        "FILENAME": "96019DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "999999",
             "666666",
@@ -2966,10 +2966,10 @@
             "996666",
             "CC9999"
         ],
-        "filename": "96021DS1.jpg"
+        "FILENAME": "96021DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -2981,10 +2981,10 @@
             "999966",
             "330000"
         ],
-        "filename": "96022DS1.jpg"
+        "FILENAME": "96022DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "CCCCCC",
             "333333",
@@ -2992,10 +2992,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "96023SC1.jpg"
+        "FILENAME": "96023SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999966",
@@ -3007,10 +3007,10 @@
             "663333",
             "CC9999"
         ],
-        "filename": "96024DS1.jpg"
+        "FILENAME": "96024DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -3022,10 +3022,10 @@
             "999966",
             "996666"
         ],
-        "filename": "96025DS1.jpg"
+        "FILENAME": "96025DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "999999",
             "666666",
@@ -3033,10 +3033,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "96026SC1.jpg"
+        "FILENAME": "96026SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -3044,10 +3044,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "96027SC1.jpg"
+        "FILENAME": "96027SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -3055,10 +3055,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96028SC1.jpg"
+        "FILENAME": "96028SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -3066,20 +3066,20 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "96030SC1.jpg"
+        "FILENAME": "96030SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
             "999999",
             "CCCCCC"
         ],
-        "filename": "96031SC1.jpg"
+        "FILENAME": "96031SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "000000",
@@ -3087,10 +3087,10 @@
             "FFFFFF",
             "666666"
         ],
-        "filename": "96032SC1.jpg"
+        "FILENAME": "96032SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "000000",
@@ -3098,10 +3098,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96033SC1.jpg"
+        "FILENAME": "96033SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666666",
@@ -3109,10 +3109,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "96034SC1.jpg"
+        "FILENAME": "96034SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "666666",
@@ -3120,10 +3120,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "96036SC1.jpg"
+        "FILENAME": "96036SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "999999",
@@ -3131,10 +3131,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "96037SC1.jpg"
+        "FILENAME": "96037SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "FFFFFF",
@@ -3142,10 +3142,10 @@
             "000000",
             "666666"
         ],
-        "filename": "96038SC1.jpg"
+        "FILENAME": "96038SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "333333",
@@ -3157,10 +3157,10 @@
             "996666",
             "999966"
         ],
-        "filename": "96039DS1.jpg"
+        "FILENAME": "96039DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "CCCCCC",
@@ -3168,10 +3168,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96040D1.jpg"
+        "FILENAME": "96040D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "666666",
             "333333",
@@ -3183,10 +3183,10 @@
             "999999",
             "FFFFCC"
         ],
-        "filename": "96041D1.jpg"
+        "FILENAME": "96041D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -3194,10 +3194,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "96043D1.jpg"
+        "FILENAME": "96043D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "663333",
@@ -3209,10 +3209,10 @@
             "333300",
             "CCCCFF"
         ],
-        "filename": "96044D1.jpg"
+        "FILENAME": "96044D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -3220,10 +3220,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "96044SC2.jpg"
+        "FILENAME": "96044SC2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3235,10 +3235,10 @@
             "669999",
             "669966"
         ],
-        "filename": "96045D1.jpg"
+        "FILENAME": "96045D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3246,10 +3246,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D10.jpg"
+        "FILENAME": "96045D10"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3257,10 +3257,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D11.jpg"
+        "FILENAME": "96045D11"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3268,10 +3268,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D12.jpg"
+        "FILENAME": "96045D12"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3279,10 +3279,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D13.jpg"
+        "FILENAME": "96045D13"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3290,10 +3290,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D14.jpg"
+        "FILENAME": "96045D14"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3301,10 +3301,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D15.jpg"
+        "FILENAME": "96045D15"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "CCCC99",
@@ -3316,10 +3316,10 @@
             "996666",
             "333300"
         ],
-        "filename": "96045D16.jpg"
+        "FILENAME": "96045D16"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3327,10 +3327,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D2.jpg"
+        "FILENAME": "96045D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333300",
             "663333",
@@ -3342,10 +3342,10 @@
             "666633",
             "996633"
         ],
-        "filename": "96045D3.jpg"
+        "FILENAME": "96045D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3353,10 +3353,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D4.jpg"
+        "FILENAME": "96045D4"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "999966",
@@ -3368,10 +3368,10 @@
             "CCCC99",
             "333300"
         ],
-        "filename": "96045D5.jpg"
+        "FILENAME": "96045D5"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "330000",
             "000000",
@@ -3383,10 +3383,10 @@
             "333333",
             "FFCCCC"
         ],
-        "filename": "96045D6.jpg"
+        "FILENAME": "96045D6"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "999999",
@@ -3394,10 +3394,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96045D7.jpg"
+        "FILENAME": "96045D7"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "330000",
             "996633",
@@ -3409,10 +3409,10 @@
             "CC9999",
             "996666"
         ],
-        "filename": "96045D8.jpg"
+        "FILENAME": "96045D8"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "333300",
@@ -3424,10 +3424,10 @@
             "666633",
             "CCCC99"
         ],
-        "filename": "96046DS1.jpg"
+        "FILENAME": "96046DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "666666",
@@ -3435,10 +3435,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "96047SC1.jpg"
+        "FILENAME": "96047SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "CCCCCC",
             "333333",
@@ -3446,10 +3446,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "96049SC1.jpg"
+        "FILENAME": "96049SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "999999",
@@ -3461,10 +3461,10 @@
             "996666",
             "663366"
         ],
-        "filename": "96050DS1.jpg"
+        "FILENAME": "96050DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "000000",
@@ -3472,10 +3472,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "96051SC1.jpg"
+        "FILENAME": "96051SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333333",
             "666666",
@@ -3487,10 +3487,10 @@
             "333300",
             "330000"
         ],
-        "filename": "96052D1.jpg"
+        "FILENAME": "96052D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -3498,10 +3498,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "96052D2.jpg"
+        "FILENAME": "96052D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "666666",
@@ -3509,10 +3509,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "96052SC1.jpg"
+        "FILENAME": "96052SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "666666",
@@ -3520,10 +3520,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "96053D1.jpg"
+        "FILENAME": "96053D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "99CCCC",
@@ -3535,10 +3535,10 @@
             "99CCFF",
             "669999"
         ],
-        "filename": "96054D1.jpg"
+        "FILENAME": "96054D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "CCCCCC",
@@ -3546,10 +3546,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96055SC1.jpg"
+        "FILENAME": "96055SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "003333",
@@ -3561,10 +3561,10 @@
             "CCFFFF",
             "003366"
         ],
-        "filename": "96056D1.jpg"
+        "FILENAME": "96056D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "666666",
@@ -3576,10 +3576,10 @@
             "996699",
             "999966"
         ],
-        "filename": "96057DS1.jpg"
+        "FILENAME": "96057DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -3587,10 +3587,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "96058SC1.jpg"
+        "FILENAME": "96058SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "999999",
@@ -3599,10 +3599,10 @@
             "000000",
             "CCFFCC"
         ],
-        "filename": "96059D1.jpg"
+        "FILENAME": "96059D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "663333",
             "000000",
@@ -3614,10 +3614,10 @@
             "999966",
             "330033"
         ],
-        "filename": "96060D1.jpg"
+        "FILENAME": "96060D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "000000",
@@ -3625,10 +3625,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "96061SC1.jpg"
+        "FILENAME": "96061SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "000000",
@@ -3640,10 +3640,10 @@
             "333300",
             "CCCC99"
         ],
-        "filename": "96062D1.jpg"
+        "FILENAME": "96062D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666666",
@@ -3655,10 +3655,10 @@
             "99CCCC",
             "9999CC"
         ],
-        "filename": "96063D1.jpg"
+        "FILENAME": "96063D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -3666,10 +3666,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "96064D1.jpg"
+        "FILENAME": "96064D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333333",
             "000033",
@@ -3681,10 +3681,10 @@
             "FFFFCC",
             "999966"
         ],
-        "filename": "96065D1.jpg"
+        "FILENAME": "96065D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -3692,10 +3692,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "96066D1.jpg"
+        "FILENAME": "96066D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "CCCC99",
             "999999",
@@ -3707,10 +3707,10 @@
             "FFCCCC",
             "333333"
         ],
-        "filename": "96067CE1.jpg"
+        "FILENAME": "96067CE1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333333",
             "CCCCCC",
@@ -3718,10 +3718,10 @@
             "666666",
             "000000"
         ],
-        "filename": "96068SC1.jpg"
+        "FILENAME": "96068SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "999999",
@@ -3729,10 +3729,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "96069SC1.jpg"
+        "FILENAME": "96069SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -3740,10 +3740,10 @@
             "999999",
             "FFFFFF"
         ],
-        "filename": "96331SC1.jpg"
+        "FILENAME": "96331SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "003300",
             "333333",
@@ -3755,10 +3755,10 @@
             "99CCCC",
             "669999"
         ],
-        "filename": "96332D1.jpg"
+        "FILENAME": "96332D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "336666",
@@ -3770,10 +3770,10 @@
             "CCCC99",
             "CC9999"
         ],
-        "filename": "96333D1.jpg"
+        "FILENAME": "96333D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "99CCCC",
@@ -3785,10 +3785,10 @@
             "666666",
             "663333"
         ],
-        "filename": "96334D1.jpg"
+        "FILENAME": "96334D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "666633",
             "999999",
@@ -3800,10 +3800,10 @@
             "999966",
             "663333"
         ],
-        "filename": "96335D1.jpg"
+        "FILENAME": "96335D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "999999",
@@ -3811,10 +3811,10 @@
             "333333",
             "666666"
         ],
-        "filename": "96336D1.jpg"
+        "FILENAME": "96336D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "333333",
             "999999",
@@ -3826,10 +3826,10 @@
             "999966",
             "CC9999"
         ],
-        "filename": "96337D1.jpg"
+        "FILENAME": "96337D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -3841,10 +3841,10 @@
             "FFCCCC",
             "999966"
         ],
-        "filename": "96338D1.jpg"
+        "FILENAME": "96338D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CC9966",
             "CCCC99",
@@ -3856,10 +3856,10 @@
             "666633",
             "FFFFFF"
         ],
-        "filename": "96339D1.jpg"
+        "FILENAME": "96339D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "CCCC99",
@@ -3871,10 +3871,10 @@
             "FFCCCC",
             "999999"
         ],
-        "filename": "96340SC1.jpg"
+        "FILENAME": "96340SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "000000",
             "CCCCCC",
             "333333",
@@ -3882,10 +3882,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "96341D1.jpg"
+        "FILENAME": "96341D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "330033",
@@ -3897,10 +3897,10 @@
             "996666",
             "999966"
         ],
-        "filename": "96342D1.jpg"
+        "FILENAME": "96342D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -3912,10 +3912,10 @@
             "CC9966",
             "CC9999"
         ],
-        "filename": "96343D1.jpg"
+        "FILENAME": "96343D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CC9966",
             "996633",
             "CC9933",
@@ -3927,10 +3927,10 @@
             "666633",
             "996600"
         ],
-        "filename": "96345D1.jpg"
+        "FILENAME": "96345D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "000000",
             "666666",
@@ -3942,10 +3942,10 @@
             "CCCCCC",
             "336666"
         ],
-        "filename": "96346D1.jpg"
+        "FILENAME": "96346D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "996666",
             "999999",
@@ -3957,10 +3957,10 @@
             "333333",
             "990000"
         ],
-        "filename": "96348D1.jpg"
+        "FILENAME": "96348D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "003333",
@@ -3972,10 +3972,10 @@
             "CCFFFF",
             "669999"
         ],
-        "filename": "96348D2.jpg"
+        "FILENAME": "96348D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "996666",
@@ -3987,10 +3987,10 @@
             "663333",
             "333333"
         ],
-        "filename": "96349D1.jpg"
+        "FILENAME": "96349D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFFFFF",
             "333333",
@@ -4002,10 +4002,10 @@
             "663333",
             "CCCCFF"
         ],
-        "filename": "96350D1.jpg"
+        "FILENAME": "96350D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "CCCCCC",
             "FFCCCC",
@@ -4017,10 +4017,10 @@
             "FFFFCC",
             "CCCC99"
         ],
-        "filename": "96351D1.jpg"
+        "FILENAME": "96351D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "333333",
@@ -4032,10 +4032,10 @@
             "996666",
             "666666"
         ],
-        "filename": "96352D1.jpg"
+        "FILENAME": "96352D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "003333",
             "333333",
             "666666",
@@ -4047,10 +4047,10 @@
             "999966",
             "FFFFFF"
         ],
-        "filename": "96814D1.jpg"
+        "FILENAME": "96814D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "CC9999",
@@ -4062,10 +4062,10 @@
             "9999CC",
             "663333"
         ],
-        "filename": "96815D1.jpg"
+        "FILENAME": "96815D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCC99",
             "CC9999",
             "FF9900",
@@ -4077,10 +4077,10 @@
             "999999",
             "996600"
         ],
-        "filename": "97271D2.jpg"
+        "FILENAME": "97271D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "CC9966",
@@ -4092,10 +4092,10 @@
             "000000",
             "CC9933"
         ],
-        "filename": "97271D3.jpg"
+        "FILENAME": "97271D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "336666",
             "996666",
@@ -4107,10 +4107,10 @@
             "666633",
             "996600"
         ],
-        "filename": "97272D2.jpg"
+        "FILENAME": "97272D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "663333",
@@ -4122,10 +4122,10 @@
             "330033",
             "330000"
         ],
-        "filename": "97272D3.jpg"
+        "FILENAME": "97272D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCC99",
             "FFCC99",
             "999999",
@@ -4137,10 +4137,10 @@
             "FFCC00",
             "999966"
         ],
-        "filename": "97273D2.jpg"
+        "FILENAME": "97273D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "663333",
@@ -4152,10 +4152,10 @@
             "CC9933",
             "000000"
         ],
-        "filename": "97273D3.jpg"
+        "FILENAME": "97273D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFCC99",
             "999966",
             "CC9966",
@@ -4167,10 +4167,10 @@
             "FFCCCC",
             "FFCC66"
         ],
-        "filename": "97274D2.jpg"
+        "FILENAME": "97274D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "CC9966",
@@ -4182,10 +4182,10 @@
             "CC9933",
             "CC6633"
         ],
-        "filename": "97274D3.jpg"
+        "FILENAME": "97274D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999966",
             "996666",
             "CC9966",
@@ -4197,10 +4197,10 @@
             "FF9933",
             "666699"
         ],
-        "filename": "97275D2.jpg"
+        "FILENAME": "97275D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "663333",
@@ -4212,10 +4212,10 @@
             "330033",
             "CC9933"
         ],
-        "filename": "97275D3.jpg"
+        "FILENAME": "97275D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "CCCC99",
             "FFCC99",
@@ -4227,10 +4227,10 @@
             "99CCCC",
             "996600"
         ],
-        "filename": "97276D2.jpg"
+        "FILENAME": "97276D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "663333",
@@ -4242,10 +4242,10 @@
             "330000",
             "000000"
         ],
-        "filename": "97276D3.jpg"
+        "FILENAME": "97276D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "996600",
             "CC9900",
             "999999",
@@ -4257,10 +4257,10 @@
             "339999",
             "CC9999"
         ],
-        "filename": "97277D2.jpg"
+        "FILENAME": "97277D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "000000",
@@ -4272,10 +4272,10 @@
             "CC6633",
             "CC9933"
         ],
-        "filename": "97277D3.jpg"
+        "FILENAME": "97277D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "999966",
             "669999",
@@ -4287,10 +4287,10 @@
             "996699",
             "666666"
         ],
-        "filename": "97278D2.jpg"
+        "FILENAME": "97278D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "CC9966",
@@ -4302,10 +4302,10 @@
             "CC9933",
             "CC6633"
         ],
-        "filename": "97278D3.jpg"
+        "FILENAME": "97278D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CC9966",
             "999966",
             "FF9900",
@@ -4317,10 +4317,10 @@
             "666633",
             "993300"
         ],
-        "filename": "97279D2.jpg"
+        "FILENAME": "97279D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "CC9966",
@@ -4332,10 +4332,10 @@
             "CC9933",
             "000000"
         ],
-        "filename": "97279D3.jpg"
+        "FILENAME": "97279D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "003333",
             "333333",
             "000000",
@@ -4347,10 +4347,10 @@
             "336633",
             "330033"
         ],
-        "filename": "97280D2.jpg"
+        "FILENAME": "97280D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "996633",
             "CC9966",
@@ -4362,10 +4362,10 @@
             "CC6633",
             "996666"
         ],
-        "filename": "97280D3.jpg"
+        "FILENAME": "97280D3"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "FFCCCC",
             "333333",
@@ -4377,10 +4377,10 @@
             "CCCCFF",
             "669999"
         ],
-        "filename": "97281D1.jpg"
+        "FILENAME": "97281D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4392,10 +4392,10 @@
             "333300",
             "996633"
         ],
-        "filename": "97281DS1.jpg"
+        "FILENAME": "97281DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFCCCC",
             "333333",
             "CCCCCC",
@@ -4407,10 +4407,10 @@
             "333300",
             "FFFFCC"
         ],
-        "filename": "97282D1.jpg"
+        "FILENAME": "97282D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4422,10 +4422,10 @@
             "CCCC99",
             "663333"
         ],
-        "filename": "97282DS1.jpg"
+        "FILENAME": "97282DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "336666",
@@ -4437,10 +4437,10 @@
             "333300",
             "669966"
         ],
-        "filename": "97283D1.jpg"
+        "FILENAME": "97283D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4452,10 +4452,10 @@
             "663333",
             "666633"
         ],
-        "filename": "97283DS1.jpg"
+        "FILENAME": "97283DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "336666",
             "CCCCCC",
             "999966",
@@ -4467,10 +4467,10 @@
             "333333",
             "CCCCFF"
         ],
-        "filename": "97284D1.jpg"
+        "FILENAME": "97284D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4482,10 +4482,10 @@
             "FFCC99",
             "CC9999"
         ],
-        "filename": "97284DS1.jpg"
+        "FILENAME": "97284DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCFF",
             "CCCCCC",
             "333333",
@@ -4497,10 +4497,10 @@
             "669999",
             "336666"
         ],
-        "filename": "97285D1.jpg"
+        "FILENAME": "97285D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4512,10 +4512,10 @@
             "CC9966",
             "996666"
         ],
-        "filename": "97285DS1.jpg"
+        "FILENAME": "97285DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "336666",
             "003333",
@@ -4527,10 +4527,10 @@
             "333333",
             "003300"
         ],
-        "filename": "97286D1.jpg"
+        "FILENAME": "97286D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4542,10 +4542,10 @@
             "000000",
             "666633"
         ],
-        "filename": "97286DS1.jpg"
+        "FILENAME": "97286DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "333333",
             "CCCCCC",
@@ -4557,10 +4557,10 @@
             "336633",
             "FFCC99"
         ],
-        "filename": "97287D1.jpg"
+        "FILENAME": "97287D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4572,10 +4572,10 @@
             "333333",
             "666633"
         ],
-        "filename": "97287DS1.jpg"
+        "FILENAME": "97287DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "333333",
             "336666",
@@ -4587,10 +4587,10 @@
             "CCCC99",
             "669999"
         ],
-        "filename": "97288D1.jpg"
+        "FILENAME": "97288D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4602,10 +4602,10 @@
             "666633",
             "CCCC99"
         ],
-        "filename": "97288DS1.jpg"
+        "FILENAME": "97288DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFCC",
             "FFFFFF",
             "CCCCCC",
@@ -4617,10 +4617,10 @@
             "666633",
             "666666"
         ],
-        "filename": "97289D1.jpg"
+        "FILENAME": "97289D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4632,10 +4632,10 @@
             "666633",
             "333333"
         ],
-        "filename": "97289DS1.jpg"
+        "FILENAME": "97289DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCFF",
             "CCCCCC",
             "000000",
@@ -4647,10 +4647,10 @@
             "666666",
             "99CCCC"
         ],
-        "filename": "97290D1.jpg"
+        "FILENAME": "97290D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4662,10 +4662,10 @@
             "333333",
             "666633"
         ],
-        "filename": "97290DS1.jpg"
+        "FILENAME": "97290DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "FFFFFF",
@@ -4677,10 +4677,10 @@
             "669999",
             "FFFFCC"
         ],
-        "filename": "97291D1.jpg"
+        "FILENAME": "97291D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4692,10 +4692,10 @@
             "663333",
             "666633"
         ],
-        "filename": "97291DS1.jpg"
+        "FILENAME": "97291DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "333333",
@@ -4707,10 +4707,10 @@
             "99CC99",
             "336633"
         ],
-        "filename": "97292D1.jpg"
+        "FILENAME": "97292D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "FFFFCC",
@@ -4722,10 +4722,10 @@
             "333300",
             "CC9933"
         ],
-        "filename": "97292DS1.jpg"
+        "FILENAME": "97292DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -4737,10 +4737,10 @@
             "CC9999",
             "FFCCCC"
         ],
-        "filename": "97752D1.jpg"
+        "FILENAME": "97752D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "999966",
             "333333",
@@ -4752,10 +4752,10 @@
             "003333",
             "CC9999"
         ],
-        "filename": "97753D1.jpg"
+        "FILENAME": "97753D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "333333",
@@ -4767,10 +4767,10 @@
             "999966",
             "FFFFCC"
         ],
-        "filename": "97754D1.jpg"
+        "FILENAME": "97754D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "CCCCCC",
@@ -4778,10 +4778,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "97754SC1.jpg"
+        "FILENAME": "97754SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "FFFFFF",
@@ -4793,10 +4793,10 @@
             "CC9966",
             "FFFFCC"
         ],
-        "filename": "97755D1.jpg"
+        "FILENAME": "97755D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -4804,10 +4804,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "97755D2.jpg"
+        "FILENAME": "97755D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -4819,10 +4819,10 @@
             "FFCCCC",
             "FFFFCC"
         ],
-        "filename": "97756D1.jpg"
+        "FILENAME": "97756D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "CCCCCC",
             "000000",
@@ -4830,10 +4830,10 @@
             "666666",
             "FFFFFF"
         ],
-        "filename": "97756SC1.jpg"
+        "FILENAME": "97756SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -4845,10 +4845,10 @@
             "CCCCCC",
             "336633"
         ],
-        "filename": "97757D1.jpg"
+        "FILENAME": "97757D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "000000",
@@ -4856,10 +4856,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "97757SC1.jpg"
+        "FILENAME": "97757SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -4871,10 +4871,10 @@
             "CC9999",
             "FFFFCC"
         ],
-        "filename": "97758D1.jpg"
+        "FILENAME": "97758D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "666666",
             "999999",
@@ -4882,10 +4882,10 @@
             "CCCCCC",
             "000000"
         ],
-        "filename": "97758SC1.jpg"
+        "FILENAME": "97758SC1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "CCCC99",
             "FFFFCC",
@@ -4897,10 +4897,10 @@
             "996666",
             "666666"
         ],
-        "filename": "97759D1.jpg"
+        "FILENAME": "97759D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "FFFFFF",
@@ -4912,10 +4912,10 @@
             "CC9999",
             "FFFFCC"
         ],
-        "filename": "97759D2.jpg"
+        "FILENAME": "97759D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "CCCCCC",
@@ -4927,10 +4927,10 @@
             "CCCC99",
             "336666"
         ],
-        "filename": "97760D1.jpg"
+        "FILENAME": "97760D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -4938,10 +4938,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "97760D2.jpg"
+        "FILENAME": "97760D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "FFFFFF",
@@ -4953,10 +4953,10 @@
             "336666",
             "669966"
         ],
-        "filename": "97762D1.jpg"
+        "FILENAME": "97762D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666666",
@@ -4964,10 +4964,10 @@
             "000000",
             "FFFFFF"
         ],
-        "filename": "97762D2.jpg"
+        "FILENAME": "97762D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "FFFFFF",
@@ -4979,10 +4979,10 @@
             "CCCCCC",
             "336633"
         ],
-        "filename": "97763D1.jpg"
+        "FILENAME": "97763D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666666",
@@ -4990,10 +4990,10 @@
             "333333",
             "000000"
         ],
-        "filename": "97763D2.jpg"
+        "FILENAME": "97763D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "FFFFFF",
@@ -5005,10 +5005,10 @@
             "CCCCCC",
             "666633"
         ],
-        "filename": "97764D1.jpg"
+        "FILENAME": "97764D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "CCCCCC",
             "666666",
@@ -5016,10 +5016,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "97764D2.jpg"
+        "FILENAME": "97764D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "666666",
             "999999",
             "333333",
@@ -5027,10 +5027,10 @@
             "CCCCCC",
             "FFFFFF"
         ],
-        "filename": "97765D2.jpg"
+        "FILENAME": "97765D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333333",
             "FFFFCC",
@@ -5042,10 +5042,10 @@
             "666633",
             "CCCC99"
         ],
-        "filename": "97766D1.jpg"
+        "FILENAME": "97766D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -5053,10 +5053,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "97766D2.jpg"
+        "FILENAME": "97766D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "999999",
             "666666",
@@ -5064,10 +5064,10 @@
             "FFFFFF",
             "000000"
         ],
-        "filename": "97767D1.jpg"
+        "FILENAME": "97767D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -5075,10 +5075,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "97767D2.jpg"
+        "FILENAME": "97767D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "333333",
             "999999",
             "000000",
@@ -5090,10 +5090,10 @@
             "CCCC99",
             "99CC99"
         ],
-        "filename": "97768D1.jpg"
+        "FILENAME": "97768D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "CCCCCC",
             "CCCC99",
@@ -5105,10 +5105,10 @@
             "999966",
             "333333"
         ],
-        "filename": "97769D1.jpg"
+        "FILENAME": "97769D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "333333",
             "FFCCCC",
@@ -5120,10 +5120,10 @@
             "330000",
             "996633"
         ],
-        "filename": "97769DS2.jpg"
+        "FILENAME": "97769DS2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "9999CC",
             "99CCCC",
@@ -5135,10 +5135,10 @@
             "333300",
             "996666"
         ],
-        "filename": "97770D1.jpg"
+        "FILENAME": "97770D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "996633",
             "000033",
             "663333",
@@ -5150,10 +5150,10 @@
             "CC6633",
             "999933"
         ],
-        "filename": "97770DS1.jpg"
+        "FILENAME": "97770DS1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "999999",
             "9999CC",
             "333333",
@@ -5165,10 +5165,10 @@
             "996666",
             "333300"
         ],
-        "filename": "97771D1.jpg"
+        "FILENAME": "97771D1"
     },
     {
-        "colors": [
+        "FARBEN": [
             "FFFFFF",
             "000000",
             "666666",
@@ -5176,10 +5176,10 @@
             "CCCCCC",
             "999999"
         ],
-        "filename": "97771D2.jpg"
+        "FILENAME": "97771D2"
     },
     {
-        "colors": [
+        "FARBEN": [
             "CCCCCC",
             "000000",
             "FFFFFF",
@@ -5191,6 +5191,6 @@
             "666666",
             "CCCCFF"
         ],
-        "filename": "98251D1.jpg"
+        "FILENAME": "98251D1"
     }
 ]

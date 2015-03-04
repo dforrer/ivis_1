@@ -29,12 +29,17 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 
 	node.on("mouseover", function (d) {
 		d3.selectAll(".node")
+			.transition()
 			.style({opacity:'0.1'})
+		d3.select(this).select("circle")
+			.attr("r", 12);
 		d3.select(this)
+			.transition()
 			.style({opacity:'1.0'});
 		d3.select(this).append("text")
 			.attr("id", "arcSelection")
-			.style("font-size", 24)
+			.style("font-size", 13)
+			.style("font-weight", "bold")
 			.attr("dx", 12)
 			.attr("dy", ".35em")
 			.text(function (d) {
@@ -44,7 +49,10 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 
 	node.on("mouseout", function (d) {
 		d3.selectAll(".node")
+			.transition()
 			.style({opacity:'1.0'});
+		d3.selectAll(".node").select("circle")
+			.attr("r", 8);
 		d3.select("#arcSelection").remove();
 	});
 
