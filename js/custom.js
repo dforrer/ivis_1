@@ -17,20 +17,33 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		.nodes(json.nodes)
 		.start();
 
-	var node = svg.selectAll(".node")
+	var items = svg.selectAll(".node")
 		.data(json.nodes)
 		.enter().append("g")
 		.filter(function(d) { return d.JAHR > 1000 })
 		.attr("class", "node")
 		.call(force.drag);
 
-	node.append("circle")
+	items.append("circle")
 		.attr("r", 8); // radius
 
-	node.on("mouseover", function (d) {
-		d3.selectAll(".node")
-			.transition()
-			.style({opacity:'0.1'})
+	items.on("mouseover", function (d) {
+		var nodes = d3.selectAll(".node");
+		var groupCount = nodes.size()/d.FARBEN.length;
+		for (var i = 0; i < d.FARBEN.length; i++) {
+			var obj = d.FARBEN[i];
+			console.log(obj);
+			console.log(nodes);
+			console.log("i*groupCount: " + Math.floor(i*groupCount));
+			console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
+
+			d3.selectAll(".node")
+				.filter(function (d, j) {
+					return (j>= Math.floor(i*groupCount) && j < Math.floor((i+1)*groupCount));
+				})
+				.select("circle")
+				.style({fill:"#"+obj});
+		}
 		d3.select(this).select("circle")
 			.attr("r", 12);
 		d3.select(this)
@@ -43,11 +56,11 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 			.attr("dx", 12)
 			.attr("dy", ".35em")
 			.text(function (d) {
-				return d.TITEL + ", " + d.JAHR
+				return d.TITEL + ", " + d.JAHR + ", " + d.FILENAME
 			})
 	})
 
-	node.on("mouseout", function (d) {
+	items.on("mouseout", function (d) {
 		d3.selectAll(".node")
 			.transition()
 			.style({opacity:'1.0'});
@@ -57,7 +70,7 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 	});
 
 	force.on("tick", function () {
-		node.attr("transform", function (d) {
+		items.attr("transform", function (d) {
 			return "translate(" + d.x + "," + d.y + ")";
 		})
 	});
