@@ -1,13 +1,13 @@
 
-var width = window.innerWidth,
-	height = window.innerHeight;
+var width = 600,
+	height = 600;
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("body").select("#graph").append("svg")
 	.attr("width", width)
 	.attr("height", height);
 
 var force = d3.layout.force()
-	.gravity(.5)
+	.gravity(.65)
 	.distance(25)
 	.charge(-100)
 	.size([width, height]);
@@ -42,14 +42,17 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 					return (j>= Math.floor(i*groupCount) && j < Math.floor((i+1)*groupCount));
 				})
 				.select("circle")
+				.style("stroke-width","0px")
 				.style({fill:"#"+obj});
 		}
 		d3.select(this).select("circle")
-			.attr("r", 12);
-		d3.select(this)
-			.transition()
-			.style({opacity:'1.0'});
-		d3.select(this).append("text")
+			.style({fill:"#ffffff"})
+			.style("stroke-width","3px");
+		document.getElementById("title").innerText = d.TITEL;
+		document.getElementById("year").innerText = d.JAHR;
+		document.getElementById("filename").innerText = d.FILENAME;
+		document.getElementById("picture").src = "images/" + d.FILENAME + ".jpg";
+/*		d3.select(this).append("text")
 			.attr("id", "arcSelection")
 			.style("font-size", 13)
 			.style("font-weight", "bold")
@@ -57,12 +60,11 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 			.attr("dy", ".35em")
 			.text(function (d) {
 				return d.TITEL + ", " + d.JAHR + ", " + d.FILENAME
-			})
+			})*/
 	})
 
 	items.on("mouseout", function (d) {
 		d3.selectAll(".node")
-			.transition()
 			.style({opacity:'1.0'});
 		d3.selectAll(".node").select("circle")
 			.attr("r", 8);
