@@ -76,6 +76,7 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		d3.select("#arcSelection").remove();
 	});
 
+	// Reference: http://bl.ocks.org/mbostock/929623
 	items.on("click", function (source) {
 		links.length = 0; // Clear array
 		for (var i = 0; i < source.FARBEN.length; i++) {
