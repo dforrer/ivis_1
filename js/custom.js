@@ -10,7 +10,13 @@ var force = d3.layout.force()
 	.gravity(.65)
 	.distance(25)
 	.charge(-100)
+	.linkDistance(30)
 	.size([width, height]);
+
+var nodes = force.nodes(),
+	links = force.links(),
+	node = svg.selectAll(".node"),
+	link = svg.selectAll(".link");
 
 d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 	force
@@ -30,8 +36,8 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 	items.on("mouseover", function (d) {
 		var groupCount = items.size()/d.FARBEN.length;
 		for (var i = 0; i < d.FARBEN.length; i++) {
-			var obj = d.FARBEN[i];
-			//console.log(obj);
+			var farbe = d.FARBEN[i];
+			//console.log(farbe);
 			//console.log(nodes);
 			//console.log("i*groupCount: " + Math.floor(i*groupCount));
 			//console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
@@ -42,7 +48,7 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 				})
 				.select("circle")
 				.style("stroke-width","0px")
-				.style({fill:"#"+obj});
+				.style({fill:"#"+farbe});
 		}
 		d3.select(this).select("circle")
 			.style({fill:"#ffffff"})
@@ -70,14 +76,55 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		d3.select("#arcSelection").remove();
 	});
 
-	items.on("click", function (d) {
-		alert("Test");
+	items.on("click", function (source) {
+		links.length = 0; // Clear array
+		for (var i = 0; i < source.FARBEN.length; i++) {
+			var farbe = source.FARBEN[i];
+			//console.log(farbe);
+			//console.log(nodes);
+			//console.log("i*groupCount: " + Math.floor(i*groupCount));
+			//console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
+
+			var targets = node
+				.filter(function (d2, j) {
+					var a = d2.FARBEN;
+					var index = 0;
+					var found = false;
+					var entry;
+					for (index = 0; index < a.length; ++index) {
+						entry = a[index];
+						if (entry == farbe) {
+							found = true;
+							break;
+						}
+					}
+					return found;
+				});
+			targets.forEach(function(target){
+				console.log(target);
+				links.push({source: source, target: target});
+			})
+		}
+		restart();
 	});
 
 	force.on("tick", function () {
 		items.attr("transform", function (d) {
 			return "translate(" + d.x + "," + d.y + ")";
 		})
+		link.attr("x1", function(d) { return d.source.x; })
+			.attr("y1", function(d) { return d.source.y; })
+			.attr("x2", function(d) { return d.target.x; })
+			.attr("y2", function(d) { return d.target.y; });
 	});
 });
+
+function restart() {
+	link = link.data(links);
+
+	link.enter().insert("line", ".node")
+		.attr("class", "link");
+
+	force.start();
+}
 
