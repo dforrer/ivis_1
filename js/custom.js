@@ -20,7 +20,7 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 	var items = svg.selectAll(".node")
 		.data(json.nodes)
 		.enter().append("g")
-		.filter(function(d) { return d.JAHR > 1000 })
+//		.filter(function(d) { return d.JAHR > 1000 })
 		.attr("class", "node")
 		.call(force.drag);
 
@@ -28,14 +28,13 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		.attr("r", 8); // radius
 
 	items.on("mouseover", function (d) {
-		var nodes = d3.selectAll(".node");
-		var groupCount = nodes.size()/d.FARBEN.length;
+		var groupCount = items.size()/d.FARBEN.length;
 		for (var i = 0; i < d.FARBEN.length; i++) {
 			var obj = d.FARBEN[i];
-			console.log(obj);
-			console.log(nodes);
-			console.log("i*groupCount: " + Math.floor(i*groupCount));
-			console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
+			//console.log(obj);
+			//console.log(nodes);
+			//console.log("i*groupCount: " + Math.floor(i*groupCount));
+			//console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
 
 			d3.selectAll(".node")
 				.filter(function (d, j) {
@@ -69,6 +68,10 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		d3.selectAll(".node").select("circle")
 			.attr("r", 8);
 		d3.select("#arcSelection").remove();
+	});
+
+	items.on("click", function (d) {
+		alert("Test");
 	});
 
 	force.on("tick", function () {
