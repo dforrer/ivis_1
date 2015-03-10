@@ -1,4 +1,14 @@
 
+Array.prototype.contains = function(obj) {
+	var i = this.length;
+	while (i--) {
+		if (this[i] === obj) {
+			return true;
+		}
+	}
+	return false;
+}
+
 var width = 600,
 	height = 600;
 
@@ -10,7 +20,7 @@ var force = d3.layout.force()
 	.gravity(.65)
 	.distance(25)
 	.charge(-100)
-	.linkDistance(30)
+	.linkDistance(10)
 	.size([width, height]);
 
 var nodes = force.nodes(),
@@ -32,7 +42,6 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 
 	items.append("circle")
 		.attr("r", 8); // radius
-
 	items.on("mouseover", function (d) {
 		var groupCount = items.size()/d.FARBEN.length;
 		for (var i = 0; i < d.FARBEN.length; i++) {
@@ -86,8 +95,8 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 			//console.log("i*groupCount: " + Math.floor(i*groupCount));
 			//console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
 
-			var targets = node
-				.filter(function (d2, j) {
+			items.data()
+				.filter(function (d2) {
 					var a = d2.FARBEN;
 					var index = 0;
 					var found = false;
@@ -100,11 +109,12 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 						}
 					}
 					return found;
+				})
+				.forEach(function (target) {
+					//if (!links.contains({source: source, target: target})){
+						links.push({source: source, target: target});
+					//}
 				});
-			targets.forEach(function(target){
-				console.log(target);
-				links.push({source: source, target: target});
-			})
 		}
 		restart();
 	});
@@ -121,10 +131,11 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 });
 
 function restart() {
+	console.log(links);
 	link = link.data(links);
 
-	link.enter().insert("line", ".node")
-		.attr("class", "link");
+	//link.enter().insert("line", ".node")
+	//	.attr("class", "link");
 
 	force.start();
 }
