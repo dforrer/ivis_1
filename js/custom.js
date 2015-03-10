@@ -1,14 +1,4 @@
 
-Array.prototype.contains = function(obj) {
-	var i = this.length;
-	while (i--) {
-		if (this[i] === obj) {
-			return true;
-		}
-	}
-	return false;
-}
-
 var width = 600,
 	height = 600;
 
@@ -20,13 +10,7 @@ var force = d3.layout.force()
 	.gravity(.65)
 	.distance(25)
 	.charge(-100)
-	.linkDistance(10)
 	.size([width, height]);
-
-var nodes = force.nodes(),
-	links = force.links(),
-	node = svg.selectAll(".node"),
-	link = svg.selectAll(".link");
 
 d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 	force
@@ -42,11 +26,12 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 
 	items.append("circle")
 		.attr("r", 8); // radius
+
 	items.on("mouseover", function (d) {
 		var groupCount = items.size()/d.FARBEN.length;
 		for (var i = 0; i < d.FARBEN.length; i++) {
-			var farbe = d.FARBEN[i];
-			//console.log(farbe);
+			var obj = d.FARBEN[i];
+			//console.log(obj);
 			//console.log(nodes);
 			//console.log("i*groupCount: " + Math.floor(i*groupCount));
 			//console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
@@ -57,7 +42,7 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 				})
 				.select("circle")
 				.style("stroke-width","0px")
-				.style({fill:"#"+farbe});
+				.style({fill:"#"+obj});
 		}
 		d3.select(this).select("circle")
 			.style({fill:"#ffffff"})
@@ -85,58 +70,14 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		d3.select("#arcSelection").remove();
 	});
 
-	// Reference: http://bl.ocks.org/mbostock/929623
-	items.on("click", function (source) {
-		links.length = 0; // Clear array
-		for (var i = 0; i < source.FARBEN.length; i++) {
-			var farbe = source.FARBEN[i];
-			//console.log(farbe);
-			//console.log(nodes);
-			//console.log("i*groupCount: " + Math.floor(i*groupCount));
-			//console.log("i+1*groupCount: " + Math.floor((i+1)*groupCount));
-
-			items.data()
-				.filter(function (d2) {
-					var a = d2.FARBEN;
-					var index = 0;
-					var found = false;
-					var entry;
-					for (index = 0; index < a.length; ++index) {
-						entry = a[index];
-						if (entry == farbe) {
-							found = true;
-							break;
-						}
-					}
-					return found;
-				})
-				.forEach(function (target) {
-					//if (!links.contains({source: source, target: target})){
-						links.push({source: source, target: target});
-					//}
-				});
-		}
-		restart();
+	items.on("click", function (d) {
+		alert("Test");
 	});
 
 	force.on("tick", function () {
 		items.attr("transform", function (d) {
 			return "translate(" + d.x + "," + d.y + ")";
 		})
-		link.attr("x1", function(d) { return d.source.x; })
-			.attr("y1", function(d) { return d.source.y; })
-			.attr("x2", function(d) { return d.target.x; })
-			.attr("y2", function(d) { return d.target.y; });
 	});
 });
-
-function restart() {
-	console.log(links);
-	link = link.data(links);
-
-	//link.enter().insert("line", ".node")
-	//	.attr("class", "link");
-
-	force.start();
-}
 
