@@ -2,6 +2,8 @@
 var width = 600,
 	height = 600;
 
+var selectedNode = null;
+
 var svg = d3.select("body").select("#graph").append("svg")
 	.attr("width", width)
 	.attr("height", height);
@@ -28,9 +30,38 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 		.attr("r", 8); // radius
 
 	items.on("mouseover", function (d) {
-		var groupCount = items.size()/d.FARBEN.length;
-		for (var i = 0; i < d.FARBEN.length; i++) {
-			var obj = d.FARBEN[i];
+		highlightSelected(d);
+/*		d3.select(this).append("text")
+			.attr("id", "arcSelection")
+			.style("font-size", 13)
+			.style("font-weight", "bold")
+			.attr("dx", 12)
+			.attr("dy", ".35em")
+			.text(function (d) {
+				return d.TITEL + ", " + d.JAHR + ", " + d.FILENAME
+			})*/
+	})
+
+	items.on("mouseout", function (d) {
+		if (selectedNode != null) {
+			highlightSelected(selectedNode);
+		}
+		//	d3.select("#arcSelection").remove();
+	});
+
+	items.on("click", function (d) {
+		selectedNode = d;
+
+		d3.select(this).select("circle")
+			.style({fill:"#ffffff"})
+			.style("stroke-width","3px");
+
+	});
+
+	function highlightSelected(node) {
+		var groupCount = items.size()/node.FARBEN.length;
+		for (var i = 0; i < node.FARBEN.length; i++) {
+			var obj = node.FARBEN[i];
 			//console.log(obj);
 			//console.log(nodes);
 			//console.log("i*groupCount: " + Math.floor(i*groupCount));
@@ -44,35 +75,18 @@ d3.json("data/Eva_Aeppli_JSON.json", function (error, json) {
 				.style("stroke-width","0px")
 				.style({fill:"#"+obj});
 		}
-		d3.select(this).select("circle")
+		svg.selectAll(".node").data(json.nodes).enter().select("circle")
 			.style({fill:"#ffffff"})
 			.style("stroke-width","3px");
-		document.getElementById("title").innerText = d.TITEL;
-		document.getElementById("year").innerText = d.JAHR;
-		document.getElementById("filename").innerText = d.FILENAME;
-		document.getElementById("picture").src = "images/" + d.FILENAME + ".jpg";
-/*		d3.select(this).append("text")
-			.attr("id", "arcSelection")
-			.style("font-size", 13)
-			.style("font-weight", "bold")
-			.attr("dx", 12)
-			.attr("dy", ".35em")
-			.text(function (d) {
-				return d.TITEL + ", " + d.JAHR + ", " + d.FILENAME
-			})*/
-	})
+		d3.select(selectedNode).select("circle")
+			.style({fill:"#ffffff"})
+			.style("stroke-width","3px");
+		document.getElementById("title").innerText = node.TITEL;
+		document.getElementById("year").innerText = node.JAHR;
+		document.getElementById("filename").innerText = node.FILENAME;
+		document.getElementById("picture").src = "images/" + node.FILENAME + ".jpg";
+	}
 
-	items.on("mouseout", function (d) {
-		d3.selectAll(".node")
-			.style({opacity:'1.0'});
-		d3.selectAll(".node").select("circle")
-			.attr("r", 8);
-		d3.select("#arcSelection").remove();
-	});
-
-	items.on("click", function (d) {
-		alert("Test");
-	});
 
 	force.on("tick", function () {
 		items.attr("transform", function (d) {
